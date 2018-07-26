@@ -1,0 +1,361 @@
+@charset "utf-8";
+
+@media screen and (min-width:0px) and (max-width:320px)
+{
+	main,
+	img,
+	header,
+	.head-right,
+	nav,
+	.container-nav,
+	.main-cont,
+	.about-me,
+	.education,
+	.box,
+	.box-left,
+	.box-right,
+	.work-exp,
+	.myskill,
+	.edu-exp,
+	.my-works,
+	.container-work,
+	.txt-bold,
+	.websites,
+	.contact,
+	.contact-left,
+	.contact-left-box,
+	.contact-right,
+	.txt,
+	footer
+	{
+		width:99.7%;
+		height:auto;
+		clear:both;	
+	}
+	
+	nav
+	{
+		height:342px;
+		background:#252222;
+	}
+	nav ul li
+	{		
+		clear:both;
+		text-align:center;
+		width:100%;
+		border-bottom:1px dotted #999999;
+		padding:20px 0px 20px 0px;
+	}
+	nav ul li a
+		{
+			clear:both;
+			padding-top:25px;
+			padding-bottom:25px;
+		}
+	header
+	{
+		height:400px;	
+	}
+	header img
+	{
+		width:60%;
+		height:40%;
+	}
+	.about-me p
+	{
+		padding:0px;
+	}
+	.box
+	{
+	  height: 150px;
+	  margin-top: 10px;
+	  border-radius:10px;
+	}
+	.myskill
+	{
+		height:210px;	
+	}
+	.myskill ul
+	{
+		display: block;
+		padding:0px;
+	}
+	.myskill ul h3
+	{
+		padding-top:5px;
+	}
+	.myskill ul li {
+		padding-top:5px;
+		background-position: 5px;
+		}
+	.myskill ul li a {
+		 font-size: 12px;
+	}
+	
+	.websites img
+	{
+		margin:5px 0px 0px 50px; 
+		height: 70%;
+ 		width: 60%;
+	}
+	.contact
+	{
+		height:600px;	
+	}
+	.txt
+	{
+		width:80%;
+		height:30px;
+		margin-left:0px;		
+	}
+	header img
+	{
+		border-radius:0px;	
+	}
+	.my-works h3
+	{
+		padding-bottom:20px;
+	}
+}
+
+@media screen and (min-width:321px) and (max-width:480px)
+{
+	 main,
+	img,
+	header,
+	.head-right,
+	nav,
+	.container-nav,
+	.main-cont,
+	.about-me,
+	.education,
+	.box,
+	.box-left,
+	.box-right,
+	.work-exp,
+	.myskill,
+	.edu-exp,
+	.my-works,
+	.container-work,
+	.txt-bold,
+	.websites,
+	.contact,
+	.contact-left,
+	.contact-left-box,
+	.contact-right,
+	.txt,
+	footer
+	{
+		width:99.7%;
+		height:auto;
+		clear:both;	
+	}
+	
+	nav
+	{
+		height:342px;
+		background:#252222;
+	}
+	nav ul li
+	{		
+		clear:both;
+		text-align:center;
+		width:100%;
+		border-bottom:1px dotted #999999;
+		padding:20px 0px 20px 0px;
+	}
+	nav ul li a
+		{
+			clear:both;
+			padding-top:25px;
+			padding-bottom:25px;
+		}
+	header
+	{
+		height:250px;	
+	}
+	header img
+	{
+		width:40%;
+		height:40%;
+
+	}
+	.about-me p
+	{
+		padding:0px;
+	}
+	.box
+	{
+	  height: 150px;
+	  margin-top: 10px;
+	  border-radius:10px;
+	}
+	.myskill
+	{
+		height:210px;	
+	}
+	.myskill ul
+	{
+		display: block;
+		padding:0px;
+		padding-left:30px;
+	}
+	.myskill ul h3
+	{
+		padding-top:5px;
+	}
+	.myskill ul li {
+		padding-top:5px;
+		background-position: 5px;
+		}
+	.myskill ul li a {
+		 font-size: 12px;
+	}
+	
+	.websites img
+	{
+		margin:5px 0px 0px 80px; 
+		height: 70%;
+ 		width: 60%;
+	}
+	.contact
+	{
+		height:600px;	
+	}
+	.txt
+	{
+		width:80%;
+		height:30px;		
+		margin-left:0px;	
+	}
+	header img
+	{
+		border-radius:0px;	
+	}
+	.my-works h3
+	{
+		padding-bottom:20px;
+	}
+}
+	
+@media screen and (min-width:481px) and (max-width:767px)
+{
+	 main,
+	img,
+	header,
+	.head-right,
+	nav,
+	.container-nav,
+	.main-cont,
+	.about-me,
+	.education,
+	.box,
+	.box-left,
+	.box-right,
+	.work-exp,
+	.myskill,
+	.edu-exp,
+	.my-works,
+	.container-work,
+	.txt-bold,
+	.websites,
+	.contact,
+	.contact-left,
+	.contact-left-box,
+	.contact-right,
+	.txt,
+	footer
+	{
+		width:99.7%;
+		height:auto;
+		clear:both;	
+	}
+	
+	nav
+	{
+		height:342px;
+		background:#252222;
+	}
+	nav ul li
+	{		
+		clear:both;
+		text-align:center;
+		width:100%;
+		border-bottom:1px dotted #999999;
+		padding:20px 0px 20px 0px;
+	}
+	nav ul li a
+		{
+			clear:both;
+			padding-top:25px;
+			padding-bottom:25px;
+		}
+	header
+	{
+		height:300px;	
+	}
+	header img
+	{
+		width:25%;
+		height:50%;
+	}
+	.about-me p
+	{
+		padding:0px;
+		
+	}
+	.box
+	{
+	  height: 150px;
+	  margin-top: 10px;
+	  border-radius:10px;
+	}
+	.myskill
+	{
+		height:210px;	
+	}
+	.myskill ul
+	{
+		display: block;
+		padding:0px;
+		padding-left:80px;
+	}
+	.myskill ul h3
+	{
+		padding-top:5px;
+	}
+	.myskill ul li {
+		padding-top:5px;
+		background-position: 5px;
+		}
+	.myskill ul li a {
+		 font-size: 12px;
+	}
+	
+	.websites img
+	{
+		margin:5px 0px 0px 120px; 
+		height: 70%;
+ 		width: 60%;
+	}
+	.contact
+	{
+		height:630px;	
+	}
+	.txt
+	{
+		width:80%;
+		height:30px;
+		margin-left:0px;			
+	}
+	
+	header img
+	{
+		border-radius:0px;	
+	}
+	.my-works h3
+	{
+		padding-bottom:20px;
+	}
+	
+}
